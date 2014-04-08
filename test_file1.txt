@@ -1,1 +1,2 @@
 select * from dual;
+select count(*) from emp_temp;
